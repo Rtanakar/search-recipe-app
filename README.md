@@ -1,8 +1,6 @@
-# Build a Recipe Finder for Your Mom | React & TailwindCSS
+# Build a Search Recipes App | React & TailwindCSS
 
-![Demo App](/public/Screenshot_29.png)
-
-[Video Tutorial on Youtube](https://youtu.be/Z_AWfuJXXCI)
+![Demo App](/public/recipe-app-banner.png)
 
 -   🌟 Learn React + Tailwind + EDAMAM API
 -   🎃 Build Responsive Design
